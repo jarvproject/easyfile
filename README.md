@@ -43,7 +43,7 @@ git clone https://github.com/jarvproject/easyfile.git
 cd EasyFile
 
 # Скомпилируйте проект
-gcc main.c -o /bin/easyfile
+./compile.sh
 ```
 
 ---
